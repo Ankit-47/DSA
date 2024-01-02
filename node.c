@@ -25,7 +25,8 @@ int main() {
     current->link = NULL;
     head->link->link = current;
 
-    int countnode(struct  node *number);
+    int 
+    countnode(struct  node *number);
     {
         int count=0;
         if(number==NULL)
