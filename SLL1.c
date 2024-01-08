@@ -51,6 +51,7 @@ int main()
         free(temp);
         temp = nextNode;
     }
+    printf("jfksdfkld");
 
     return 0;
 }
